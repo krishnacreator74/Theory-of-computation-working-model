@@ -50,9 +50,6 @@ The DFA is implemented using Python, and it accepts input strings based on user-
 
 ```plaintext
 Enter number of states: 3
-Enter the number of alphabets: 2
-Enter the value for alphabet: 0
-Enter the value for alphabet: 1
 Enter the Transition states for DFA
 Enter the Transition state for q0:
   On input 0 go to (['q0', 'q1', 'q2']): q0
